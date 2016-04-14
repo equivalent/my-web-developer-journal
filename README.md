@@ -8,3 +8,4 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 
 * 2016-04-12 Updated Sidekiq gem Getting Started Wiky page on `ActiveJob` as a default method for Rails 4.2 and up https://github.com/mperham/sidekiq/wiki/Getting-Started
+* 2106-03-04 [Pull Request](https://github.com/aws/aws-sdk-ruby/pull/1122) on [Ruby AWS SDK gem](https://github.com/aws/aws-sdk-ruby) updating documentation on how to use SQS 

@@ -14,3 +14,5 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2015-12-10 create a [mirror for json-api RC-3](http://jsonapi-rc3.herokuapp.com/) as there was no backreference to older version. [github](https://github.com/equivalent/json-api-RC3)
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/113) on gem [Party Foul](https://github.com/DockYard/party_foul)   to fix reporting of sessions after  Rails 4 change
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/112) on gem [Party Foul](https://github.com/DockYard/party_foul) to fix marshaling issue; :hamster: **merged** 
+* 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/5) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to fix Lists were not displayed in the default view
+* 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/4) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to enable Rails 4 support

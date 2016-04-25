@@ -17,3 +17,4 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/112) on gem [Party Foul](https://github.com/DockYard/party_foul) to fix marshaling issue; :hamster: **merged** 
 * 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/5) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to fix Lists were not displayed in the default view
 * 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/4) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to enable Rails 4 support
+* 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition

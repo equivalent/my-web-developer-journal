@@ -11,6 +11,7 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2016-03-04 [Pull Request](https://github.com/aws/aws-sdk-ruby/pull/1122) on [Ruby AWS SDK gem](https://github.com/aws/aws-sdk-ruby) updating documentation on how to use SQS 
 * 2016-01-28 [Pull Request](https://github.com/resque/resque/pull/1399) on Resque gem - updating documentation, how to introduce custom Logger
 * 2015-12-10 [Pull Request](https://github.com/json-api/json-api/pull/876) on [json-api](http://jsonapi.org/) documentation to include link to `RC-3` version of the documentation. :cyclone:TODO
+* 2015-01-13 [Comment](https://github.com/scambra/devise_invitable/issues/402#issuecomment-127408132) on [Devise Invitable](https://github.com/scambra/devise_invitable) gem - solution for "invalid token after upgrading Devise"
 * 2015-12-10 create a [mirror for json-api RC-3](http://jsonapi-rc3.herokuapp.com/) as there was no backreference to older version. [github](https://github.com/equivalent/json-api-RC3)
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/113) on gem [Party Foul](https://github.com/DockYard/party_foul)   to fix reporting of sessions after  Rails 4 change
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/112) on gem [Party Foul](https://github.com/DockYard/party_foul) to fix marshaling issue; :hamster: **merged** 

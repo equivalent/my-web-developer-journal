@@ -9,7 +9,7 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2016-04-29 Comment on [Issue](https://github.com/jrgifford/delayed_paperclip/pull/177) 
   relatedand to `delayed_paperclip` ignoring `paperclip` processors and oppened
   a [Pull Request](https://github.com/jrgifford/delayed_paperclip/pull/177) updating documentation
-  on how to deal with this issue.
+  on how to deal with this issue; :hamster: **merged** 
 * 2016-04-29 [Pull Request](https://github.com/thoughtbot/paperclip/pull/2181) on `paperclip` gem -
   updat documentation link; :hamster: **merged** 
 * 2016-04-28 oppened [Issue](https://github.com/mperham/sidekiq/issues/2952) for Sidekiq gem - `Sidekiq::Queue.new.size` returning zero. Redis version issue.

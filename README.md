@@ -6,6 +6,12 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 **Why?:** Because I have a memory of a Squirrel, what I don't write down I forget and then I loose track of stuff I've already done or Pull Requested ...and GitHub is not much help either.
 
+* 2016-04-29 Comment on [Issue](https://github.com/jrgifford/delayed_paperclip/pull/177) 
+  relatedand to `delayed_paperclip` ignoring `paperclip` processors and oppened
+  a [Pull Request](https://github.com/jrgifford/delayed_paperclip/pull/177) updating documentation
+  on how to deal with this issue.
+* 2016-04-29 [Pull Request](https://github.com/thoughtbot/paperclip/pull/2181) on `paperclip` gem -
+  updat documentation link.
 * 2016-04-28 oppened [Issue](https://github.com/mperham/sidekiq/issues/2952) for Sidekiq gem - `Sidekiq::Queue.new.size` returning zero. Redis version issue.
 * 2016-04-19 commentn on Puma server [issue](https://github.com/puma/puma/issues/961) - puma loading long time
 * 2016-04-12 Updated Sidekiq gem Getting Started Wiky page on `ActiveJob` as a default method for Rails 4.2 and up https://github.com/mperham/sidekiq/wiki/Getting-Started

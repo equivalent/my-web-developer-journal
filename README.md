@@ -20,8 +20,15 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2015-12-10 [Pull Request](https://github.com/json-api/json-api/pull/876) on [json-api](http://jsonapi.org/) documentation to include link to `RC-3` version of the documentation. :cyclone:TODO
 * 2015-01-13 [Comment](https://github.com/scambra/devise_invitable/issues/402#issuecomment-127408132) on [Devise Invitable](https://github.com/scambra/devise_invitable) gem - solution for "invalid token after upgrading Devise"
 * 2015-12-10 create a [mirror for json-api RC-3](http://jsonapi-rc3.herokuapp.com/) as there was no backreference to older version. [github](https://github.com/equivalent/json-api-RC3)
+* 2015-06-17 [Pull  Request](https://github.com/rails/rails-dev-box/pull/106) on [rails-dev-box](https://github.com/rails/rails-dev-box) Vagrant file - no network ubuntu vagrant virtual box issue; :cry: **closed**
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/113) on gem [Party Foul](https://github.com/DockYard/party_foul)   to fix reporting of sessions after  Rails 4 change
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/112) on gem [Party Foul](https://github.com/DockYard/party_foul) to fix marshaling issue; :hamster: **merged** 
 * 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/5) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to fix Lists were not displayed in the default view
 * 2014-05-08 [Pull Request](https://github.com/zohararad/wysihtml5n-rails/pull/4) on gem [wysihtml5n-rails](https://github.com/zohararad/wysihtml5n-rails) to enable Rails 4 support
 * 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition
+
+
+#### summarized list of PullRequested Projects:
+
+* https://github.com/rails/rails-dev-box
+* https://github.com/thoughtbot/paperclip

@@ -6,6 +6,7 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 **Why?:** Because I have a memory of a Squirrel, what I don't write down I forget and then I loose track of stuff I've already done or Pull Requested ...and GitHub is not much help either.
 
+* 2016-06-07 Comment on  [Issue](https://github.com/thoughtbot/paperclip/issues/2223), ImageMagick 6.9.4-7 issue on Paperclip
 * 2016-05-23 Comment on  [Issue](https://github.com/docker/docker/issues/18283), docker `Error initializing network controller: could not delete the default bridge network` error
 * 2016-04-29 Comment on [Issue](https://github.com/jrgifford/delayed_paperclip/pull/177) 
   relatedand to `delayed_paperclip` ignoring `paperclip` processors and oppened

@@ -52,4 +52,6 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 ### Press
 
-* https://www.theguardian.com/odine-partner-zone/2016/jun/28/pobble-digital-global-classroom?CMP=share_btn_tw
+* 2016-07 http://rubyweekly.com/issues/304
+* 2016-06 https://www.theguardian.com/odine-partner-zone/2016/jun/28/pobble-digital-global-classroom?CMP=share_btn_tw
+

@@ -6,7 +6,7 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 **Why?:** Because I have a memory of a Squirrel, what I don't write down I forget and then I loose track of stuff I've already done or Pull Requested ...and GitHub is not much help either.
 
-* 2016-07-06 [Pull  Request](https://github.com/airbrake/airbrake/pull/570) on Airbrake gem - update changelog v4 to v5
+* 2016-07-06 [Pull  Request](https://github.com/airbrake/airbrake/pull/570) on Airbrake gem - update changelog v4 to v5 closed :rage2: ,... but idea was merged in [this PR](https://github.com/airbrake/airbrake/pull/576) by other dude (mentioned)
 * 2016-06-27 [Pull Request](https://github.com/elastic/elasticsearch-rails/pull/583) on [Elasticsearch Rails](https://github.com/elastic/elasticsearch-rails) adding example on how to render Paperclip images without unecesarry ActiveRecord calls
 * 2016-06-27 [Pull Request](https://github.com/elastic/elasticsearch-rails/pull/582/files) on [Elasticsearch Rails](https://github.com/elastic/elasticsearch-rails) adding example on how to use custom analyzers & edge_ngrams
 * 2016-06-23 Comment on  [Issue](https://github.com/thoughtbot/factory_girl_rails/issues/88), Factory girl generating to `test` folder istead `spec` folder

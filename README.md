@@ -6,6 +6,7 @@ Bio and keeping track of professional developer &amp; open source highlights
 
 **Why?:** Because I have a memory of a Squirrel, what I don't write down I forget and then I loose track of stuff I've already done or Pull Requested ...and GitHub is not much help either.
 
+* 2016-07-26 [Comment](https://github.com/rubygems/rubygems/issues/1419) on travis failing due to  `NoMethodError: undefined method `spec' for nil:NilClass` due to old Bundler version by TravisCI
 * 2016-07-26 [Pull Request](https://github.com/carrierwaveuploader/carrierwave/pull/1989) on carrierwave gem fixing deprication message - **pending**
 * 2016-07-22 [Pull  Request](https://github.com/elastic/elasticsearch-rails/pull/602) on Elasticsearch Rails gem - Active Job async indexation example
 * 2016-07-22 [Issue / Feature proposal](https://github.com/elastic/elasticsearch-rails/issues/601) on Elasticsearch Rails gem

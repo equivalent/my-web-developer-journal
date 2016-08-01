@@ -2,9 +2,29 @@
 
 **Stupid Narcissism**
 
-Bio and keeping track of professional developer &amp; open source highlights 
+This file is a Bio/Portfolio to keep track of my professional developer &amp; open source highlights.
 
-**Why?:** Because I have a memory of a Squirrel, what I don't write down I forget and then I loose track of stuff I've already done or Pull Requested ...and GitHub is not much help either.
+**Why?:** Because I have a memory of a Squirrel :squirrel: !
+What I don't write down I forget and then I loose track of stuff
+I've already done or Pull Requested.
+
+It already happened to me that I've done the same PR twice
+( and GitHub activity log is not much help either)
+
+
+...so, here is my stupid narcissistic list of:
+
+### Open Source Projects:
+
+* 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket
+* 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable
+* [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks) 2013
+
+
+
+(here is my stupid narcissistic list of:)
+
+### Contributions:
 
 * 2016-07-26 [Comment](https://github.com/rubygems/rubygems/issues/1419) on travis failing due to  `NoMethodError: undefined method `spec' for nil:NilClass` due to old Bundler version by TravisCI
 * 2016-07-26 [Pull Request](https://github.com/carrierwaveuploader/carrierwave/pull/1989) on carrierwave gem fixing deprication message - **pending**
@@ -44,18 +64,15 @@ Bio and keeping track of professional developer &amp; open source highlights
 * 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition
 
 
-#### summarized list of PullRequested Projects:
+##### summarized list of PullRequested Projects:
 
 * https://github.com/rails/rails-dev-box
 * https://github.com/thoughtbot/paperclip
 
 
-#### List of projects I've started
+(here is my stupid narcissistic list of:)
 
-* [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks) 2013
-
-
-### Press
+### Press Mentions
 
 * 2016-07 http://rubyweekly.com/issues/304
 * 2016-06 https://www.theguardian.com/odine-partner-zone/2016/jun/28/pobble-digital-global-classroom?CMP=share_btn_tw

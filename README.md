@@ -16,10 +16,10 @@ It already happened to me that I've done the same PR twice
 
 ### Open Source Projects:
 
-* 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket
-* 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable
-* [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks) 2013
-
+* 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket; status: **alive** :green_heart:
+* 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable; status: **alive** :green_heart:
+* 2014-06 [Public UID](https://github.com/equivalent/public_uid) ; status: **alive** :green_heart:
+* 2013 [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks); status: **dead** :broken_heart:, should work with Rails 3, Rails 4, not tested/updated with Rails 5
 
 
 (here is my stupid narcissistic list of:)
@@ -72,8 +72,14 @@ It already happened to me that I've done the same PR twice
 
 (here is my stupid narcissistic list of:)
 
-### Press Mentions
+### Press/Newsletter Mentions
 
 * 2016-07 http://rubyweekly.com/issues/304
+* 2016-04 http://rubyweekly.com/issues/295
 * 2016-06 https://www.theguardian.com/odine-partner-zone/2016/jun/28/pobble-digital-global-classroom?CMP=share_btn_tw
 
+
+### Previouse Jobs
+
+* Lovethis (London)
+  * https://techcrunch.com/2012/04/11/lovethis-launches-social-recommendation-anti-app-by-adding-facebook-email-tips-to-the-mix/

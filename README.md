@@ -64,10 +64,11 @@ It already happened to me that I've done the same PR twice
 * 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition
 
 
-##### summarized list of PullRequested Projects:
+##### Summarized list of projects I contributed with Pull Request
 
 * https://github.com/rails/rails-dev-box
 * https://github.com/thoughtbot/paperclip
+* https://github.com/jrgifford/delayed_paperclip
 
 
 (here is my stupid narcissistic list of:)

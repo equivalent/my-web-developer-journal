@@ -75,6 +75,7 @@ It already happened to me that I've done the same PR twice
 
 ### Press/Newsletter Mentions
 
+* 2016-08 http://rubyweekly.com/issues/309
 * 2016-07 http://rubyweekly.com/issues/304
 * 2016-04 http://rubyweekly.com/issues/295
 * 2016-06 https://www.theguardian.com/odine-partner-zone/2016/jun/28/pobble-digital-global-classroom?CMP=share_btn_tw

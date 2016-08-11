@@ -27,7 +27,7 @@ It already happened to me that I've done the same PR twice
 ### Contributions:
 
 * 2016-07-26 [Comment](https://github.com/rubygems/rubygems/issues/1419) on travis failing due to  `NoMethodError: undefined method `spec' for nil:NilClass` due to old Bundler version by TravisCI
-* 2016-07-26 [Pull Request](https://github.com/carrierwaveuploader/carrierwave/pull/1989) on carrierwave gem fixing deprication message - **pending**
+* 2016-07-26 [Pull Request](https://github.com/carrierwaveuploader/carrierwave/pull/1989) on carrierwave gem fixing deprication message; :hamster: **merged**
 * 2016-07-22 [Pull  Request](https://github.com/elastic/elasticsearch-rails/pull/602) on Elasticsearch Rails gem - Active Job async indexation example
 * 2016-07-22 [Issue / Feature proposal](https://github.com/elastic/elasticsearch-rails/issues/601) on Elasticsearch Rails gem
 * 2016-07-06 [Pull  Request](https://github.com/airbrake/airbrake/pull/570) on Airbrake gem - update changelog v4 to v5 closed :rage2: ,... but idea was merged in [this PR](https://github.com/airbrake/airbrake/pull/576) by `@kyrylo` 
@@ -68,7 +68,9 @@ It already happened to me that I've done the same PR twice
 
 * https://github.com/rails/rails-dev-box
 * https://github.com/thoughtbot/paperclip
+* https://github.com/carrierwaveuploader
 * https://github.com/jrgifford/delayed_paperclip
+* https://github.com/phatworx/devise_security_extension
 
 
 (here is my stupid narcissistic list of:)

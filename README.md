@@ -80,6 +80,7 @@ It already happened to me that I've done the same PR twice
 ##### todo list on my repositories 
 
 * https://github.com/equivalent/mailer_preview_request_model/pull/2
+* https://github.com/equivalent/copy_carrierwave_file/issues/7
 
 ### Press/Newsletter Mentions
 

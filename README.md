@@ -75,6 +75,12 @@ It already happened to me that I've done the same PR twice
 
 (here is my stupid narcissistic list of:)
 
+### My open source projects:
+
+##### todo list on my repositories 
+
+* https://github.com/equivalent/mailer_preview_request_model/pull/2
+
 ### Press/Newsletter Mentions
 
 * 2016-08 http://rubyweekly.com/issues/309

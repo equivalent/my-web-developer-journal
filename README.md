@@ -52,6 +52,7 @@ It already happened to me that I've done the same PR twice
 * 2015-01-13 [Comment](https://github.com/scambra/devise_invitable/issues/402#issuecomment-127408132) on [Devise Invitable](https://github.com/scambra/devise_invitable) gem - solution for "invalid token after upgrading Devise"
 * 2015-12-10 create a [mirror for json-api RC-3](http://jsonapi-rc3.herokuapp.com/) as there was no backreference to older version. [github](https://github.com/equivalent/json-api-RC3)
 * 2015-03-24  [Issue open](https://github.com/plataformatec/devise/issues/3534#issuecomment-85485913) on Devise gem - extracting password encryption to sep. gem
+* 2015-05-22 [Issue open](https://github.com/plataformatec/simple_form/issues/1257#issuecomment-104665063) on  Simple Form radio buttons readonly when value is false
 * 2015-06-17 [Pull  Request](https://github.com/rails/rails-dev-box/pull/106) on [rails-dev-box](https://github.com/rails/rails-dev-box) Vagrant file - no network ubuntu vagrant virtual box issue; :cry: **closed**
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/113) on gem [Party Foul](https://github.com/DockYard/party_foul)   to fix reporting of sessions after  Rails 4 change
 * 2014-10-23 [Pull Request](https://github.com/DockYard/party_foul/pull/112) on gem [Party Foul](https://github.com/DockYard/party_foul) to fix marshaling issue; :hamster: **merged** 

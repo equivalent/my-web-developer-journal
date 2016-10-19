@@ -26,6 +26,7 @@ It already happened to me that I've done the same PR twice
 
 ### Contributions:
 
+* 2016-10-19 Article comment on [http://red-badger.com/blog/2016/06/22/docker-and-assets-and-rails-oh-my/](how to deal with Rails asset compilation in Docker for CDN)
 * 2016-09-21 [Wiky entry](https://github.com/sferik/rails_admin/wiki/Orderable-Sortable-Has-And-Belongs-To-Many) to [Rails Admin](https://github.com/sferik/rails_admin)
 * 2016-08-24 [Comment](https://github.com/bbatsov/ruby-style-guide/pull/176) ruby style guide long chain format 
 * 2016-07-26 [Comment](https://github.com/rubygems/rubygems/issues/1419) on travis failing due to  `NoMethodError: undefined method `spec' for nil:NilClass` due to old Bundler version by TravisCI

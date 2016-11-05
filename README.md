@@ -26,6 +26,9 @@ It already happened to me that I've done the same PR twice
 
 ### Contributions:
 
+
+* 2016-11-05  [Comment](https://github.com/docker/docker/issues/23347#issuecomment-258604002) on Ubuntu 16.04 docker instalation hanging
+* 2016-10-22 [Comment](https://gist.github.com/roberto/3344628#gistcomment-1903900) on Gist on flash message for bootstrap
 * 2016-10-19 Article comment on [http://red-badger.com/blog/2016/06/22/docker-and-assets-and-rails-oh-my/](how to deal with Rails asset compilation in Docker for CDN)
 * 2016-09-21 [Wiky entry](https://github.com/sferik/rails_admin/wiki/Orderable-Sortable-Has-And-Belongs-To-Many) to [Rails Admin](https://github.com/sferik/rails_admin)
 * 2016-08-24 [Comment](https://github.com/bbatsov/ruby-style-guide/pull/176) ruby style guide long chain format 

@@ -1,6 +1,4 @@
-# Gaaaah !
-
-**Stupid Narcissism**
+# My web-develper journal
 
 This file is a Bio/Portfolio to keep track of my professional developer &amp; open source highlights.
 
@@ -8,11 +6,11 @@ This file is a Bio/Portfolio to keep track of my professional developer &amp; op
 What I don't write down I forget and then I loose track of stuff
 I've already done or Pull Requested.
 
-It already happened to me that I've done the same PR twice
+It already happened to me several time that I've done the same PR twice
 ( and GitHub activity log is not much help either)
 
-
 ...so, here is my stupid narcissistic list of:
+
 
 ### Open Source Projects:
 

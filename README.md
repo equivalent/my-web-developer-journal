@@ -89,6 +89,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Press/Newsletter Mentions
 
+* 2016-12-15 http://rubyweekly.com/issues/328
 * 2016-08 http://rubyweekly.com/issues/309
 * 2016-07 http://rubyweekly.com/issues/304
 * 2016-04 http://rubyweekly.com/issues/295

@@ -24,6 +24,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2017-01-06 [Pull Request](https://github.com/AzureAD/omniauth-azure-activedirectory/pull/28) on omniauth-azure-activedirectory gem - naming convention
 * 2016-11-14 [Pull Request](https://github.com/bbatsov/ruby-style-guide/pull/610) on Ruby Style Guide - comma for last element in multiple line hash
 * 2016-11-05 [Comment](https://github.com/docker/docker/issues/23347#issuecomment-258604002) on Ubuntu 16.04 docker instalation hanging
 * 2016-10-22 [Comment](https://gist.github.com/roberto/3344628#gistcomment-1903900) on Gist on flash message for bootstrap
@@ -89,7 +90,10 @@ It already happened to me several time that I've done the same PR twice
 
 ### Press/Newsletter Mentions
 
+* 2016-12-16 https://elixir.libhunt.com/newsletter/30
+* 2016-12-16 https://ruby.libhunt.com/newsletter/31
 * 2016-12-15 http://rubyweekly.com/issues/328
+* 2016-11-00 https://ruby.libhunt.com/newsletter/29
 * 2016-08 http://rubyweekly.com/issues/309
 * 2016-07 http://rubyweekly.com/issues/304
 * 2016-04 http://rubyweekly.com/issues/295

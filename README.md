@@ -24,6 +24,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2017-01-13   [Comment](https://github.com/AzureAD/omniauth-azure-activedirectory/issues/25) on Azure AD mustitenant for AzureAD/omniauth-azure-activedirectory fix
 * 2017-01-06 [Pull Request](https://github.com/AzureAD/omniauth-azure-activedirectory/pull/28) on omniauth-azure-activedirectory gem - naming convention
 * 2016-11-14 [Pull Request](https://github.com/bbatsov/ruby-style-guide/pull/610) on Ruby Style Guide - comma for last element in multiple line hash
 * 2016-11-05 [Comment](https://github.com/docker/docker/issues/23347#issuecomment-258604002) on Ubuntu 16.04 docker instalation hanging

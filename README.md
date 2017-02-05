@@ -45,11 +45,11 @@ It already happened to me several time that I've done the same PR twice
 * 2016-06-07 Comment on  [Issue](https://github.com/thoughtbot/paperclip/issues/2223), ImageMagick 6.9.4-7 issue on Paperclip
 * 2016-05-23 Comment on  [Issue](https://github.com/docker/docker/issues/18283), docker `Error initializing network controller: could not delete the default bridge network` error
 * 2016-04-29 Comment on [Issue](https://github.com/jrgifford/delayed_paperclip/pull/177) 
-  relatedand to `delayed_paperclip` ignoring `paperclip` processors and oppened
-  a [Pull Request](https://github.com/jrgifford/delayed_paperclip/pull/177) updating documentation
-  on how to deal with this issue; :hamster: **merged** 
+relatedand to `delayed_paperclip` ignoring `paperclip` processors and oppened
+a [Pull Request](https://github.com/jrgifford/delayed_paperclip/pull/177) updating documentation
+on how to deal with this issue; :hamster: **merged** 
 * 2016-04-29 [Pull Request](https://github.com/thoughtbot/paperclip/pull/2181) on `paperclip` gem -
-  updat documentation link; :hamster: **merged** 
+updat documentation link; :hamster: **merged** 
 * 2016-04-28 oppened [Issue](https://github.com/mperham/sidekiq/issues/2952) for Sidekiq gem - `Sidekiq::Queue.new.size` returning zero. Redis version issue.
 * 2016-04-19 commentn on Puma server [issue](https://github.com/puma/puma/issues/961) - puma loading long time
 * 2016-04-12 Updated Sidekiq gem Getting Started Wiky page on `ActiveJob` as a default method for Rails 4.2 and up https://github.com/mperham/sidekiq/wiki/Getting-Started
@@ -68,8 +68,8 @@ It already happened to me several time that I've done the same PR twice
 * 2013-09-06  [Create Project](https://github.com/equivalent/shoulda-matchers-callbacks) gem to extend [Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers) to allow test Model callbacks (PR comment bellow)
 * 2013-09-06 [Pull Request](https://github.com/thoughtbot/shoulda-matchers/pull/353#issuecomment-23949653) on [Shoulda Matchers](https://github.com/thoughtbot/shoulda-matchers) allow developer to check if callback on a Model is present  **Closed** :rage2:
 * 2013-08-30 [Pull Request](https://github.com/delwyn/cached_at/pull/3)
-  on [cached at gem](https://github.com/delwyn/cached_at) to providae
-  custom cache key
+on [cached at gem](https://github.com/delwyn/cached_at) to providae
+custom cache key
 * 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition
 
 
@@ -93,6 +93,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Press/Newsletter Mentions
 
+* 2017-02-05 Green Ruby News #209 - Article "POST != Create and PUT != Update"
 * 2016-12-16 https://elixir.libhunt.com/newsletter/30
 * 2016-12-16 https://ruby.libhunt.com/newsletter/31
 * 2016-12-15 http://rubyweekly.com/issues/328

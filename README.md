@@ -93,8 +93,8 @@ custom cache key
 
 ### Press/Newsletter Mentions
 
-* 2017-02-09 http://rubyweekly.com/issues/335
-* 2017-02-05 Green Ruby News #209 - Article "POST != Create and PUT != Update"
+* 2017-02-09 http://rubyweekly.com/issues/335 - Article "POST != Create and PUT != Update"
+* 2017-02-05 [Green Ruby News #209](http://greenruby.org/grn-209.html) - Article "POST != Create and PUT != Update"
 * 2016-12-16 https://elixir.libhunt.com/newsletter/30
 * 2016-12-16 https://ruby.libhunt.com/newsletter/31
 * 2016-12-15 http://rubyweekly.com/issues/328

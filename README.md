@@ -40,7 +40,7 @@ It already happened to me several time that I've done the same PR twice
 * 2016-07-22 [Issue / Feature proposal](https://github.com/elastic/elasticsearch-rails/issues/601) on Elasticsearch Rails gem
 * 2016-07-06 [Pull  Request](https://github.com/airbrake/airbrake/pull/570) on Airbrake gem - update changelog v4 to v5 closed :rage2: ,... but idea was merged in [this PR](https://github.com/airbrake/airbrake/pull/576) by `@kyrylo` 
 * 2016-06-27 [Pull Request](https://github.com/elastic/elasticsearch-rails/pull/583) on [Elasticsearch Rails](https://github.com/elastic/elasticsearch-rails) adding example on how to render Paperclip images without unecesarry ActiveRecord calls
-* 2016-06-27 [Pull Request](https://github.com/elastic/elasticsearch-rails/pull/582/files) on [Elasticsearch Rails](https://github.com/elastic/elasticsearch-rails) adding example on how to use custom analyzers & edge_ngrams
+* 2016-06-27 [Pull Request](https://github.com/elastic/elasticsearch-rails/pull/582/files) on [Elasticsearch Rails](https://github.com/elastic/elasticsearch-rails) adding example on how to use custom analyzers & edge_ngrams; **megred** as [this commit](https://github.com/elastic/elasticsearch-rails/commit/f8df53aedfd37ab83cb19abfccaaa71b34018e22)
 * 2016-06-23 Comment on  [Issue](https://github.com/thoughtbot/factory_girl_rails/issues/88), Factory girl generating to `test` folder istead `spec` folder
 * 2016-06-07 Comment on  [Issue](https://github.com/thoughtbot/paperclip/issues/2223), ImageMagick 6.9.4-7 issue on Paperclip
 * 2016-05-23 Comment on  [Issue](https://github.com/docker/docker/issues/18283), docker `Error initializing network controller: could not delete the default bridge network` error

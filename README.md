@@ -24,6 +24,9 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2017-04-07 [Comment](https://github.com/stavro/arc/issues/180) and
+  [Pull Request](https://github.com/stavro/arc/pull/181) on Arc Elixir
+on Phoenix 1.2 not supporting recommende deps
 * 2017-01-30 [Pull Requset](https://github.com/amvse/cloudwatchlogger/pull/3) on [cloudwatchlogger](https://github.com/amvse/cloudwatchlogger) on how to set up different region and log stream name README.md update; :hamster: **merged**
 * 2017-01-16 [Pull  Request](https://github.com/AzureAD/omniauth-azure-activedirectory/pull/29) on adding [Wiki page on how to set up Multi Tenant](https://github.com/AzureAD/omniauth-azure-activedirectory/wiki/Setup-Multi-tenant) to README of AzureAD/omniauth-azure-activedirectory (Wiki entry created by me too)
 * 2017-01-13   [Comment](https://github.com/AzureAD/omniauth-azure-activedirectory/issues/25) on Azure AD mustitenant for AzureAD/omniauth-azure-activedirectory fix

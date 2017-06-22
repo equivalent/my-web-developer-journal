@@ -24,6 +24,8 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2017-06-22 [Pull Request](https://github.com/wondeltd/ruby-client/pull/4) for Wonde Ruby client SDK
+* 2017-06-22 [Pull Request](https://github.com/wondeltd/ruby-client/pull/3) for Wonde Ruby client SDK
 * 2017-04-07 [Comment](https://github.com/stavro/arc/issues/180) and
   [Pull Request](https://github.com/stavro/arc/pull/181) on Arc Elixir
 on Phoenix 1.2 not supporting recommende deps

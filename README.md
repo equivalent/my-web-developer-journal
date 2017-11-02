@@ -25,6 +25,8 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2017-11-01 [Issue Raised](https://github.com/google/google-api-ruby-client/issues/626) for google drive Ruby SDK - trashed folders are treated as regular folders
+* 2017-11-01 [Comment 1](https://www.reddit.com/r/aws/comments/7a5anz/we_are_the_aws_lambda_serverless_team_ask_the/dp779t5/) && [Comment 2](https://www.reddit.com/r/aws/comments/7a5anz/we_are_the_aws_lambda_serverless_team_ask_the/dp77xzl/) on Reddit/r/aws topic: "We are the AWS Lambda & Serverless team. Ask the Experts!" 
 * 2017-06-22 [Pull Request](https://github.com/wondeltd/ruby-client/pull/4) for Wonde Ruby client SDK
 * 2017-06-22 [Pull Request](https://github.com/wondeltd/ruby-client/pull/3) for Wonde Ruby client SDK
 * 2017-04-07 [Comment](https://github.com/stavro/arc/issues/180) and

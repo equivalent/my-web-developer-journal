@@ -1,3 +1,10 @@
+html {
+  height: 100%;
+  background-image: linear-gradient(#bfdfff 0%, rgba(239,255,191,0.55) 90%, rgba(255,220,115,0.3) 100%);
+  overflow-x: hidden;
+  margin: 0px;
+}
+
 body {
   text-align: left;
   max-width: 570px;
@@ -8,4 +15,13 @@ header {
   margin-top: 10em;
   margin-bottom: 3em;
   text-align: center;
+}
+
+header h1 {
+  font-size: 3em;
+  margin-bottom: 0.1em;
+}
+
+header h2 {
+  font-size: 0.8em;
 }

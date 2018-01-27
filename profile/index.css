@@ -1,0 +1,11 @@
+body {
+  text-align: left;
+  max-width: 570px;
+  margin: 0 auto;
+}
+
+header {
+  margin-top: 10em;
+  margin-bottom: 3em;
+  text-align: center;
+}

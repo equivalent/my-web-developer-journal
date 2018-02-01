@@ -2,9 +2,20 @@ server {
   listen 80;
   server_name w3.eq8.eu;
 
-  location /tils/39* {
-    return       301 https://blog.eq8.eu/til/find-duplicate-email-records-with-rails.html;
-    break;
+  location ~* /tils/39 {
+    return 301 https://blog.eq8.eu/til/find-duplicate-email-records-with-rails.html;
+  }
+
+  location ~* /tils/38 {
+    return 301 https://blog.eq8.eu/til/elastic-search-total-count.html
+  }
+
+  location ~* /tils/37 {
+    return 301 https://blog.eq8.eu/til/change-memory-size-for-elasticsearch-jvm-heap.html
+  }
+
+  location ~* /tils/36 {
+    return 301 https://blog.eq8.eu/til/elastic-beanstalk-docker-using-aws-ec2-container-registry-ecr.html
   }
 
   root /var/www/profile;

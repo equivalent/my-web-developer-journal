@@ -1,8 +1,7 @@
 html {
+  font-family: Verdana, Geneva, sans-serif;
   height: 100%;
-  background-image: linear-gradient(#bfdfff 0%, rgba(239,255,191,0.55) 90%, rgba(255,220,115,0.3) 100%);
-  overflow-x: hidden;
-  margin: 0px;
+  margin: 0;
 }
 
 body {
@@ -12,7 +11,7 @@ body {
 }
 
 header {
-  margin-top: 10em;
+  margin-top: 3em;
   margin-bottom: 3em;
   text-align: center;
 }
@@ -24,4 +23,42 @@ header h1 {
 
 header h2 {
   font-size: 0.8em;
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkblue;
+  text-decoration: underline;
+}
+
+a.blog-btn {
+  display: block;
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  margin: 0.2em;
+  padding: 0.5em;
+  background-color: darkblue;
+  color: white;
+  font-weight: bold;
+  border-radius: 0.5em;
+  font-size: 2em;
+}
+
+a.blog-btn:hover {
+  color: white;
+  text-decoration: none;
+  background-color: black;
+}
+
+.hidden {
+  display:none;
+}
+
+small {
+  margin-left: -3px
 }

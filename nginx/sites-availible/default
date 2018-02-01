@@ -7,15 +7,15 @@ server {
   }
 
   location ~* /tils/38 {
-    return 301 https://blog.eq8.eu/til/elastic-search-total-count.html
+    return 301 https://blog.eq8.eu/til/elastic-search-total-count.html;
   }
 
   location ~* /tils/37 {
-    return 301 https://blog.eq8.eu/til/change-memory-size-for-elasticsearch-jvm-heap.html
+    return 301 https://blog.eq8.eu/til/change-memory-size-for-elasticsearch-jvm-heap.html;
   }
 
   location ~* /tils/36 {
-    return 301 https://blog.eq8.eu/til/elastic-beanstalk-docker-using-aws-ec2-container-registry-ecr.html
+    return 301 https://blog.eq8.eu/til/elastic-beanstalk-docker-using-aws-ec2-container-registry-ecr.html;
   }
 
   root /var/www/profile;

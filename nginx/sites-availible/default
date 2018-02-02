@@ -18,6 +18,26 @@ server {
     return 301 https://blog.eq8.eu/til/elastic-beanstalk-docker-using-aws-ec2-container-registry-ecr.html;
   }
 
+  location ~* /tils/35 {
+    return 301 https://blog.eq8.eu/til/how-to-get-current-enviroment-name-in-phoenix-elixir.html;
+  }
+
+  location ~* /tils/34 {
+    return 301 https://blog.eq8.eu/til/ako-opravit-flyxbox-od-orange;
+  }
+
+
+
+
+  location ~* /tils {
+    return 301 https://blog.eq8.eu/til;
+  }
+
+  location ~* /til {
+    return 301 https://blog.eq8.eu/til;
+  }
+
+
   root /var/www/profile;
 }
 

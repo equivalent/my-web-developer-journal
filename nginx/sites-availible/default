@@ -31,7 +31,7 @@ server {
   }
 
   location ~* /tils/32 {
-    return 301 https://blog.eq8.eu/til/how-to-reload-iex-with-a-new-code.html
+    return 301 https://blog.eq8.eu/til/how-to-reload-iex-with-a-new-code.html;
   }
 
   location ~* /tils/31 {

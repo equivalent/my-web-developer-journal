@@ -49,7 +49,7 @@ server {
     return 301 https://blog.eq8.eu/til/troubles-with-encoding.html;
   }
 
-  location /tils/9 {
+  location = /tils/9 {
     return 301 https://blog.eq8.eu/til/troubles-with-encoding.html;
   }
 
@@ -61,7 +61,7 @@ server {
     return 301 https://blog.eq8.eu/til/free-up-space-on-your-linux-server.html;
   }
 
-  location /tils/8 {
+  location = /tils/8 {
     return 301 https://blog.eq8.eu/til/free-up-space-on-your-linux-server.html;
   }
 
@@ -73,7 +73,7 @@ server {
     return 301 https://blog.eq8.eu/til/force-ssl-nginx-infinite-loop.html;
   }
 
-  location /tils/7 {
+  location = /tils/7 {
     return 301 https://blog.eq8.eu/til/force-ssl-nginx-infinite-loop.html;
   }
 
@@ -85,7 +85,7 @@ server {
     return 301 https://blog.eq8.eu/til/rack-test-change-default-host.html;
   }
 
-  location /tils/6 {
+  location = /tils/6 {
     return 301 https://blog.eq8.eu/til/rack-test-change-default-host.html;
   }
 
@@ -97,7 +97,7 @@ server {
     return 301 https://blog.eq8.eu/til/fetch-amazon-s3-backup-from-console.html;
   }
 
-  location /tils/5 {
+  location = /tils/5 {
     return 301 https://blog.eq8.eu/til/fetch-amazon-s3-backup-from-console.html;
   }
 
@@ -109,7 +109,7 @@ server {
     return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
   }
 
-  location /tils/4 {
+  location = /tils/4 {
     return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
   }
 
@@ -121,7 +121,7 @@ server {
     return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
   }
 
-  location /tils/3 {
+  location = /tils/3 {
     return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
   }
 
@@ -133,7 +133,7 @@ server {
     return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
   }
 
-  location /tils/2 {
+  location = /tils/2 {
     return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
   }
 
@@ -145,7 +145,7 @@ server {
     return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
   }
 
-  location /tils/1 {
+  location = /tils/1 {
     return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
   }
 

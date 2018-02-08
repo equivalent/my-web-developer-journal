@@ -50,37 +50,37 @@ server {
 
 
 
-  location ~* /tils/04 {
+  location ~* /tils/04- {
     return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
   }
 
-  location ~* /tils/4 {
+  location ~* /tils/4- {
     return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
   }
 
-  location ~* /tils/03 {
+  location ~* /tils/03- {
     return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
   }
 
-  location ~* /tils/3 {
+  location ~* /tils/3- {
     return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
   }
 
 
-  location ~* /tils/02 {
+  location ~* /tils/02- {
     return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
   }
 
-  location ~* /tils/2 {
+  location ~* /tils/2- {
     return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
   }
 
 
-  location ~* /tils/01 {
+  location ~* /tils/01- {
     return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
   }
 
-  location ~* /tils/1 {
+  location ~* /tils/1- {
     return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
   }
 

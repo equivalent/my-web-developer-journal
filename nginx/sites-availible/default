@@ -39,6 +39,63 @@ server {
   }
 
 
+
+
+
+
+
+  location ~* /tils/0 {
+    return 301 ;
+  }
+
+  location ~* /tils/ {
+    return 301 ;
+  }
+
+
+
+
+
+
+
+
+  location ~* /tils/04 {
+    return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
+  }
+
+  location ~* /tils/4 {
+    return 301 https://blog.eq8.eu/til/yield-returning-zero-0.html;
+  }
+
+  location ~* /tils/03 {
+    return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
+  }
+
+  location ~* /tils/3 {
+    return 301 https://blog.eq8.eu/til/rails-deliver-mail-to-file.html;
+  }
+
+
+  location ~* /tils/02 {
+    return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
+  }
+
+  location ~* /tils/2 {
+    return 301 https://blog.eq8.eu/til/make-private-method-public-in-ruby.html;
+  }
+
+
+  location ~* /tils/01 {
+    return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
+  }
+
+  location ~* /tils/1 {
+    return 301 https://blog.eq8.eu/til/no-database-connection-in-rails-console.html;
+  }
+
+
+
+
   location ~* /tils {
     return 301 https://blog.eq8.eu/til;
   }

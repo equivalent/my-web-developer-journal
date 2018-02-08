@@ -150,8 +150,6 @@ server {
   }
 
 
-
-
   location ~* /tils {
     return 301 https://blog.eq8.eu/til;
   }

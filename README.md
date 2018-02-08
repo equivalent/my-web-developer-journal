@@ -25,6 +25,8 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2018-02-08 [Issue](https://github.com/rails/rails/issues/31932)
+  feature proposal: delegate private for Rails
 * 2017-12-04 [Issue](https://github.com/rspec/rspec-expectations/issues/1028) for RSpec negative mather 
 * 2017-11-15 [Pull Request](https://github.com/minimagick/minimagick/pull/433) for mini_magick gem - just Readme update :hamster: **merged**
 * 2017-11-01 [Issue Raised](https://github.com/google/google-api-ruby-client/issues/626) for google drive Ruby SDK - trashed folders are treated as regular folders

@@ -244,6 +244,45 @@ server {
     return 301 https://blog.eq8.eu/til;
   }
 
+  # talks
+
+  location ~* /talks/02- {
+    return 301 https://blog.eq8.eu/talk/lrug-talk-aws-elastic-beanstalk-docker-rails.html;
+  }
+
+  location ~* /talks/2- {
+    return 301 https://blog.eq8.eu/talk/lrug-talk-aws-elastic-beanstalk-docker-rails.html;
+  }
+
+  location = /talks/2 {
+    return 301 https://blog.eq8.eu/talk/lrug-talk-aws-elastic-beanstalk-docker-rails.html;
+  }
+
+  location ~* /talks/01- {
+    return 301 https://blog.eq8.eu/talk/lightning-talk-lrug-web-developer-life-hacks.html;
+  }
+
+  location ~* /talks/1- {
+    return 301 https://blog.eq8.eu/talk/lightning-talk-lrug-web-developer-life-hacks.html;
+  }
+
+  location = /talks/1 {
+    return 301 https://blog.eq8.eu/talk/lightning-talk-lrug-web-developer-life-hacks.html;
+  }
+
+  location ~* /talks {
+    return 301 https://blog.eq8.eu/talk;
+  }
+
+  location ~* /talks {
+    return 301 https://blog.eq8.eu/talk;
+  }
+
+
+
+  location = /blogs.rss {
+    return 301 https://blog.eq8.eu/feed.xml;
+  }
 
   root /var/www/profile;
 }

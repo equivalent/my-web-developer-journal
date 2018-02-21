@@ -279,9 +279,78 @@ server {
   }
 
 
+  # blogs / articles
+
+  location ~* /blogs/47 {
+    return 301 https://blog.eq8.eu/article/write-more-explicit-code-layers.html;
+  }
+
+  location ~* /blogs/46 {
+    return 301 https://blog.eq8.eu/article/lessons-learned-from-functional-programming-as-a-ruby-developer.html;
+  }
+
+  location ~* /blogs/45 {
+    return 301 https://blog.eq8.eu/article/ruby-call-method.html;
+  }
+
+  location ~* /blogs/44 {
+    return 301 https://blog.eq8.eu/article/csrf-protection-on-single-page-app-api.html;
+  }
+
+  location ~* /blogs/43 {
+    return 301 https://blog.eq8.eu/article/cloud-coding.html;
+  }
+
+  location ~* /blogs/42 {
+    return 301 https://blog.eq8.eu/article/rails-assets-pipeline-and-docker.html;
+  }
+
+  location ~* /blogs/41 {
+    return 301 https://blog.eq8.eu/article/policy-object.html;
+  }
+
+  location ~* /blogs/40 {
+    return 301 https://blog.eq8.eu/article/github-credentials-in-bundler.html;
+  }
+
+  location ~* /blogs/39 {
+    return 301 https://blog.eq8.eu/article/expresive-tests-rspec.html;
+  }
+
+  location ~* /blogs/38 {
+    return 301 https://blog.eq8.eu/article/rails-association-relation-arel-magic.html;
+  }
+
+  location ~* /blogs/37 {
+    return 301 https://blog.eq8.eu/article/put-vs-patch-vs-your-firewall.html;
+  }
+
+  location ~* /blogs/36 {
+    return 301 https://blog.eq8.eu/article/put-vs-patch.html;
+  }
+
+
+
+
+
+  location ~* /blogs {
+    return 301 https://blog.eq8.eu/article;
+  }
+
+  location ~* /blogs {
+    return 301 https://blog.eq8.eu/article;
+  }
 
   location = /blogs.rss {
     return 301 https://blog.eq8.eu/feed.xml;
+  }
+
+  location ~* /articles {
+    return 301 https://blog.eq8.eu/article;
+  }
+
+  location ~* /articles {
+    return 301 https://blog.eq8.eu/article;
   }
 
   root /var/www/profile;

@@ -2,6 +2,10 @@ server {
   listen 80;
   server_name w3.eq8.eu;
 
+  location ~* /tils/40 {
+    return 301 https://blog.eq8.eu/til/connect-ruby-on-rails-app-to-azure-cosmosdb-with-mongoid-gem.html;
+  }
+
   location ~* /tils/39 {
     return 301 https://blog.eq8.eu/til/find-duplicate-email-records-with-rails.html;
   }
@@ -39,7 +43,89 @@ server {
   }
 
 
+  location ~* /tils/30 {
+    return 301 https://blog.eq8.eu/til/tell-activejob-to-perform_later-as-perform_now-in-test-or-spec.html;
+  }
 
+  location ~* /tils/29 {
+    return 301 https://blog.eq8.eu/til/selecting-value-from-list-of-tuples-elixir.html;
+  }
+
+  location ~* /tils/28 {
+    return 301 https://blog.eq8.eu/til/exclude-tags-when-running-exunit-tests.html;
+  }
+
+  location ~* /tils/27 {
+    return 301 https://blog.eq8.eu/til/aws-s3-datetime-format-to-ecto.html;
+  }
+
+  location ~* /tils/26 {
+    return 301 https://blog.eq8.eu/til/datetime-formating-options.html;
+  }
+
+  location ~* /tils/25 {
+    return 301 https://blog.eq8.eu/til/phoenix-increase-timeout-when-debugging-with-iexpry-in-exunit.html;
+  }
+
+  location ~* /tils/24 {
+    return 301 https://blog.eq8.eu/til/how-to-debug-phoenix-elixir-application.html;
+  }
+
+  location ~* /tils/23 {
+    return 301 https://blog.eq8.eu/til/send-files-of-server.html;
+  }
+
+  location ~* /tils/22 {
+    return 301 https://blog.eq8.eu/til/raspberry-pi-cifs-mount-on-boot.html;
+  }
+
+  location ~* /tils/21 {
+    return 301 https://blog.eq8.eu/til/elixir-update-struct-value.html;
+  }
+
+  location ~* /tils/20 {
+    return 301 https://blog.eq8.eu/til/ecto-get-last-record.html;
+  }
+
+  location ~* /tils/19 {
+    return 301 https://blog.eq8.eu/til/exunit-wait-for-genserver-cast.html;
+  }
+
+  location ~* /tils/18 {
+    return 301 https://blog.eq8.eu/til/removing-old-remote-branches-in-bulk.html;
+  }
+
+  location ~* /tils/17 {
+    return 301 https://blog.eq8.eu/til/ubuntu-14-04-ruby-rails-c-dependancy-solution.html;
+  }
+
+  location ~* /tils/16 {
+    return 301 https://blog.eq8.eu/til/rails-log-only-partials.html;
+  }
+
+  location ~* /tils/15 {
+    return 301 https://blog.eq8.eu/til/capybara-matchers-in-rspec.html;
+  }
+
+  location ~* /tils/14 {
+    return 301 https://blog.eq8.eu/til/error-hint-mysql-gem.html;
+  }
+
+  location ~* /tils/13 {
+    return 301 https://blog.eq8.eu/til/use-rails-delegate-lib-only.html;
+  }
+
+  location ~* /tils/12 {
+    return 301 https://blog.eq8.eu/til/run-multiple-times-rspec-on-same-machine.html;
+  }
+
+  location ~* /tils/11 {
+    return 301 https://blog.eq8.eu/til/override-default-rake-task-of-rails.html;
+  }
+
+  location ~* /tils/10 {
+    return 301 https://blog.eq8.eu/til/carrierwave-uploader-not-processing-in-rspec.html;
+  }
 
   location ~* /tils/09- {
     return 301 https://blog.eq8.eu/til/troubles-with-encoding.html;

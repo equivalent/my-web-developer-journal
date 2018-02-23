@@ -329,6 +329,55 @@ server {
     return 301 https://blog.eq8.eu/article/put-vs-patch.html;
   }
 
+  location ~* /blogs/35 {
+    return 301 https://blog.eq8.eu/article/setup-ubuntu-16.04.html;
+  }
+
+  location ~* /blogs/34 {
+    return 301 https://blog.eq8.eu/article/set-up-aws-elastic-beanstalk-demo.html;
+  }
+
+  location ~* /blogs/33 {
+    return 301 https://blog.eq8.eu/article/aws-route-53-cloudflare.html;
+  }
+
+  location ~* /blogs/32 {
+    return 301 https://blog.eq8.eu/article/cors-rails-assets-cdn-heroku.html;
+  }
+
+  location ~* /blogs/31 {
+    return 301 https://blog.eq8.eu/article/simple-ralis-authentication-for-one-user.html;
+  }
+
+  location ~* /blogs/30 {
+    return 301 https://blog.eq8.eu/article/rspec-json-api-testing.html;
+  }
+
+  location ~* /blogs/29 {
+    return 301 https://blog.eq8.eu/article/aws-elasticbeanstalk-hooks.html;
+  }
+
+  location ~* /blogs/28 {
+    return 301 https://blog.eq8.eu/article/ruby-enumerable-enumerator-lazy-and-domain-specific-collections.html;
+  }
+
+  location ~* /blogs/27 {
+    return 301 https://blog.eq8.eu/article/rspec-be-within-matcher.html;
+  }
+
+  location ~* /blogs/26 {
+    return 301 https://blog.eq8.eu/article/rendering-paperclip-attachments-via-elasticsearch.html;
+  }
+
+  location ~* /blogs/25 {
+    return 301 https://blog.eq8.eu/article/common-aws-elasticbeansalk-docker-issues-and-solutions.html;
+  }
+
+  location ~* /blogs/24 {
+    return 301 https://blog.eq8.eu/article/rails-debuging-tricks.html;
+  }
+
+
 
 
 

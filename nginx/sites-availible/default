@@ -377,9 +377,41 @@ server {
     return 301 https://blog.eq8.eu/article/rails-debuging-tricks.html;
   }
 
+  location ~* /blogs/23 {
+    return 301 https://blog.eq8.eu/article/spring-cleanup-web-developer.html;
+  }
 
+  location ~* /blogs/22 {
+    return 301 https://blog.eq8.eu/article/rails-validators-in-separte-object.htmlhttps://blog.eq8.eu/article/rails-validators-in-separte-object.html;
+  }
 
+  location ~* /blogs/21 {
+    return 301 https://blog.eq8.eu/article/rails-gets-redirected-to-wrong-host-when-nginx.html;
+  }
 
+  location ~* /blogs/20 {
+    return 301 https://blog.eq8.eu/article/keyboard-tips.html;
+  }
+
+  location ~* /blogs/19 {
+    return 301 https://blog.eq8.eu/article/setting-up-simple-wordpres-deployment-with-codeship-to-aws-ec2.html;
+  }
+
+  location ~* /blogs/18 {
+    return 301 https://blog.eq8.eu/article/chromebook-for-web-developers.html;
+  }
+
+  location ~* /blogs/17 {
+    return 301 https://blog.eq8.eu/article/build-or-not-to-build-docker-images-in-the-cloud.html;
+  }
+
+  location ~* /blogs/16 {
+    return 301 https://blog.eq8.eu/article/scissors-rule-in-coding.html;
+  }
+
+  location ~* /blogs/15 {
+    return 301 https://blog.eq8.eu/article/cronntab-rbenv-bundle-exec-rake-task.html;
+  }
 
 
   location ~* /blogs {

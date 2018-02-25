@@ -413,8 +413,83 @@ server {
     return 301 https://blog.eq8.eu/article/cronntab-rbenv-bundle-exec-rake-task.html;
   }
 
+  location ~* /blogs/14 {
+    return 301 https://blog.eq8.eu/article/force_ssl_is_different_than_force_ssl.html;
+  }
 
-  location ~* /blogs {
+  location ~* /blogs/13 {
+    return 301 https://blog.eq8.eu/article/ruby-ancestors-descendants-and-other-ways-how-to-pull-relatives.html;
+  }
+
+  location ~* /blogs/12 {
+    return 301 https://blog.eq8.eu/article/array-of-json-data-in-html-data-attribute.html;
+  }
+
+  location ~* /blogs/11 {
+    return 301 https://blog.eq8.eu/article/rspec-matchers-in-db-seed-file.html;
+  }
+
+  location ~* /blogs/10 {
+    return 301 https://blog.eq8.eu/article/proper-way-how-to-translate-rails-validation-messages.html;
+  }
+
+  location ~* /blogs/9 {
+    return 301 https://blog.eq8.eu/article/mail-interceptor-for-different-environments.html;
+  }
+
+  location ~* /blogs/8 {
+    return 301 https://blog.eq8.eu/article/rspec-performance-improvement-with-before-all.html;
+  }
+
+  location ~* /blogs/7 {
+    return 301 https://blog.eq8.eu/article/render-images-with-rails-controller.html;
+  }
+
+  location ~* /blogs/6 {
+    return 301 https://blog.eq8.eu/article/jenkins-ci-for-rails-4-rspec-cucumber-selenium.html;
+  }
+
+  location ~* /blogs/5 {
+    return 301 https://blog.eq8.eu/article/temporary-enable-dalli-cache-store-in-rspec.html;
+  }
+
+  location = /blogs/4 {
+    return 301 https://blog.eq8.eu/article/installing-rbenv-on-ubuntu.html;
+  }
+
+  location ~* /blogs/04- {
+    return 301 https://blog.eq8.eu/article/installing-rbenv-on-ubuntu.html;
+  }
+
+  location ~* /blogs/4- {
+    return 301 https://blog.eq8.eu/article/installing-rbenv-on-ubuntu.html;
+  }
+
+  location = /blogs/3 {
+    return 301 https://blog.eq8.eu/article/instaling-nginx-1-4-4-on-ubuntu-from-source.html;
+  }
+
+  location ~* /blogs/03- {
+    return 301 https://blog.eq8.eu/article/instaling-nginx-1-4-4-on-ubuntu-from-source.html;
+  }
+
+  location ~* /blogs/3- {
+    return 301 https://blog.eq8.eu/article/instaling-nginx-1-4-4-on-ubuntu-from-source.html;
+  }
+
+  location ~* /blogs/01- {
+    return 301 https://blog.eq8.eu/article/shoulda-matchers-depricated-now-what.html;
+  }
+
+  location ~* /blogs/1- {
+    return 301 https://blog.eq8.eu/article/shoulda-matchers-depricated-now-what.html;
+  }
+
+  location = /blogs/1 {
+    return 301 https://blog.eq8.eu/article/shoulda-matchers-depricated-now-what.html;
+  }
+
+  location ~* /blog {
     return 301 https://blog.eq8.eu/article;
   }
 

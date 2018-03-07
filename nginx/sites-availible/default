@@ -382,7 +382,7 @@ server {
   }
 
   location ~* /blogs/22 {
-    return 301 https://blog.eq8.eu/article/rails-validators-in-separte-object.htmlhttps://blog.eq8.eu/article/rails-validators-in-separte-object.html;
+    return 301 https://blog.eq8.eu/article/rails-validators-in-separte-object.html;
   }
 
   location ~* /blogs/21 {

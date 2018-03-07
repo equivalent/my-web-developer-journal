@@ -1,6 +1,6 @@
 server {
   listen 80;
-  server_name w3.eq8.eu;
+  server_name www.eq8.eu;
 
   location ~* /tils/40 {
     return 301 https://blog.eq8.eu/til/connect-ruby-on-rails-app-to-azure-cosmosdb-with-mongoid-gem.html;

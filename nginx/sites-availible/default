@@ -1,9 +1,15 @@
 server {
-  listen 80;
-  listen 443 ssl;
+   listen 443;
 
-  ssl_client_certificate /etc/nginx/certs/cloudflare.crt;
-  ssl_verify_client on;
+    ssl_client_certificate /etc/nginx/certs/cloudflare.crt;
+    ssl_verify_client on;
+
+   return 301 http://$host$request_uri;
+}
+
+
+server {
+  listen 80;
 
   server_name www.eq8.eu;
 

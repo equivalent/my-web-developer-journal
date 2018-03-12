@@ -25,8 +25,10 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2018-03-12 [Issue](https://github.com/rvm/rvm/issues/4324) RVM -
+  `bundle` is not same as `bundler` in RVM setup
 * 2018-02-13 [Pull Request](https://github.com/rails/rails/pull/31944)
-  `delegate prvite: true`
+  `delegate prvite: true` **merged** :hamster: :hamster: :hamster:
 * 2018-02-08 [Pull Request](https://github.com/rails/rails/pull/31933) `delegate_privately` - ability to delegate methods while keeping them private **closed**
 * 2018-02-08 [Issue](https://github.com/rails/rails/issues/31932) feature proposal: delegate private for Rails
 * 2017-12-04 [Issue](https://github.com/rspec/rspec-expectations/issues/1028) for RSpec negative mather 

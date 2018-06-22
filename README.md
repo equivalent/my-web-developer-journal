@@ -109,6 +109,7 @@ custom cache key
 
 ### Press/Newsletter Mentions
 
+* 2018-06-21 [Ruby Weekly 404](https://rubyweekly.com/issues/404) article [Rails CSRF Protection for Single-Page Applications )[https://blog.eq8.eu/article/rails-api-authentication-with-spa-csrf-tokens.html]
 * 2017-03-03 [Awesome Ruby #42](https://ruby.libhunt.com/newsletter/42)
 * 2017-02-09 http://rubyweekly.com/issues/335 - Article "POST != Create and PUT != Update"
 * 2017-02-05 [Green Ruby News #209](http://greenruby.org/grn-209.html) - Article "POST != Create and PUT != Update"

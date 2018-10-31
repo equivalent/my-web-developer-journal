@@ -16,7 +16,7 @@
 
     <script type="text/javascript">
       $( document ).ready(function() {
-        $('h1').replaceWith(moment("2018-11-01 09:00").fromNow());
+        $('h1').replaceWith(moment("2018-11-01 00:00").fromNow());
 
         date = moment().diff('2018-12-06 09:00', 'days')
         date = date + ' days left'

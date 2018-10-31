@@ -510,6 +510,10 @@ server {
     return 301 https://blog.eq8.eu/article;
   }
 
+  location = /a {
+    return 301 https://www.eq8.eu/a.html;
+  }
+
   root /var/www/profile;
 }
 

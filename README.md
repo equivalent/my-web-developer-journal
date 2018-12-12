@@ -25,6 +25,9 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/6) serverless-sinatra-sample - rakefile test setup :hamster: **merged** 
+* 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/5) serverless-sinatra-sample - refactor Dynamo DB to store seperate fields + tests :hamster: **merged** 
+* 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/4) serverless-sinatra-sample - rvm setup :hamster: **merged** 
 * 2018-03-12 [Issue](https://github.com/rvm/rvm/issues/4324) RVM -
   `bundle` is not same as `bundler` in RVM setup
 * 2018-02-13 [Pull Request](https://github.com/rails/rails/pull/31944)

@@ -112,6 +112,7 @@ custom cache key
 
 ### Press/Newsletter Mentions
 
+* 2018-12-13 [Ruby Weekly 429](https://rubyweekly.com/issues/429)  article on aws lamda sinatra
 * 2018-06-21 [Ruby Weekly 404](https://rubyweekly.com/issues/404) article [Rails CSRF Protection for Single-Page Applications )[https://blog.eq8.eu/article/rails-api-authentication-with-spa-csrf-tokens.html]
 * 2017-03-03 [Awesome Ruby #42](https://ruby.libhunt.com/newsletter/42)
 * 2017-02-09 http://rubyweekly.com/issues/335 - Article "POST != Create and PUT != Update"

@@ -25,6 +25,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2019-03-04 [Pull Request](https://github.com/rstacruz/cheatsheets/pull/1030)
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/6) serverless-sinatra-sample - rakefile test setup :hamster: **merged** 
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/5) serverless-sinatra-sample - refactor Dynamo DB to store seperate fields + tests :hamster: **merged** 
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/4) serverless-sinatra-sample - rvm setup :hamster: **merged** 

@@ -86,6 +86,7 @@ custom cache key
 
 ### Open Source Projects:
 
+* [We want FaaS for Ruby ! - petition](https://www.serverless-ruby.org/)
 * 2017-07-28 [Phoenix comment on static compilation](https://github.com/phoenixframework/phoenix/issues/2413)
 * 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket; status: **alive** :green_heart:
 * 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable; status: **alive** :green_heart:

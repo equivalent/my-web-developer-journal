@@ -11,21 +11,11 @@ It already happened to me several time that I've done the same PR twice
 
 ...so, here is my stupid narcissistic list of:
 
-
-### Open Source Projects:
-
-* 2019-04-26 [Unsplash gem documentation note](https://github.com/unsplash/unsplash_rb/pull/68) **merged**
-* 2017-07-28 [Phoenix comment on static compilation](https://github.com/phoenixframework/phoenix/issues/2413)
-* 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket; status: **alive** :green_heart:
-* 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable; status: **alive** :green_heart:
-* 2014-06 [Public UID](https://github.com/equivalent/public_uid) ; status: **alive** :green_heart:
-* 2013 [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks); status: **dead** :broken_heart:, should work with Rails 3, Rails 4, not tested/updated with Rails 5
-
-
 (here is my stupid narcissistic list of:)
 
 ### Contributions:
 
+* 2019-04-26 [Unsplash gem documentation note](https://github.com/unsplash/unsplash_rb/pull/68) **merged**
 * 2019-03-04 [Pull Request](https://github.com/rstacruz/cheatsheets/pull/1030)
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/6) serverless-sinatra-sample - rakefile test setup :hamster: **merged** 
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/5) serverless-sinatra-sample - refactor Dynamo DB to store seperate fields + tests :hamster: **merged** 
@@ -94,16 +84,14 @@ custom cache key
 * 2012 [Comment](https://github.com/wycats/handlebars.js/issues/206#issuecomment-10183603) on Handlebars.js discussion around handlebars if condition
 
 
-##### Summarized list of projects I contributed with Pull Request
+### Open Source Projects:
 
-* https://github.com/rails/rails-dev-box
-* https://github.com/thoughtbot/paperclip
-* https://github.com/carrierwaveuploader
-* https://github.com/jrgifford/delayed_paperclip
-* https://github.com/phatworx/devise_security_extension
+* 2017-07-28 [Phoenix comment on static compilation](https://github.com/phoenixframework/phoenix/issues/2413)
+* 2016-04-29 [Dummy Sinatra-Puma socket app running on Docker](https://github.com/equivalent/dummy-sinatra-puma-socket-docker-app) for debugging NginX confix that is comunicating with Puma via Socket; status: **alive** :green_heart:
+* 2015-12-10 [JSON API RC3](http://jsonapi-rc3.herokuapp.com/) ([github](https://github.com/equivalent/json-api-RC3)) - old RC3 version of [JSON API](http://jsonapi.org/) as a documentation for websites that were build before version 1.0 stable; status: **alive** :green_heart:
+* 2014-06 [Public UID](https://github.com/equivalent/public_uid) ; status: **alive** :green_heart:
+* 2013 [Shoulda::Matchers::Callbacks](https://github.com/equivalent/shoulda-matchers-callbacks); status: **dead** :broken_heart:, should work with Rails 3, Rails 4, not tested/updated with Rails 5
 
-
-(here is my stupid narcissistic list of:)
 
 ### My open source projects:
 

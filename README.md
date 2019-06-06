@@ -102,6 +102,7 @@ custom cache key
 
 ### Press/Newsletter Mentions
 
+* 2019-06-06 [Ruby Weekly 453](https://rubyweekly.com/issues/453)
 * 2018-12-20 [ServerlesStatus 81](https://serverless.email/issues/81)
 * 2018-12-13 [Ruby Weekly 429](https://rubyweekly.com/issues/429)  article on aws lamda sinatra
 * 2018-06-21 [Ruby Weekly 404](https://rubyweekly.com/issues/404) article [Rails CSRF Protection for Single-Page Applications )[https://blog.eq8.eu/article/rails-api-authentication-with-spa-csrf-tokens.html]

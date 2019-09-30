@@ -15,6 +15,7 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2019-09-30 [Rails 6 ActionView::Template::Error wrong number of arguments (given 2, expected 1)](https://github.com/rspec/rspec-rails/issues/2177) [2](https://github.com/rails/rails/issues/36315) bugreport
 * 2019-04-26 [Unsplash gem documentation note](https://github.com/unsplash/unsplash_rb/pull/68) **merged**
 * 2019-03-04 [Pull Request](https://github.com/rstacruz/cheatsheets/pull/1030)
 * 2018-12-12 [Pull Request](https://github.com/aws-samples/serverless-sinatra-sample/pull/6) serverless-sinatra-sample - rakefile test setup :hamster: **merged** 

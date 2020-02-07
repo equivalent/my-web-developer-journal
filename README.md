@@ -1,5 +1,7 @@
 # My web-develper journal
 
+> Tomas Valent - a.k.a   [Equivalent](https://www.eq8.eu/)
+
 This file is a Bio/Portfolio to keep track of my professional developer &amp; open source highlights.
 
 **Why?:** Because I have a memory of a Squirrel :squirrel: !

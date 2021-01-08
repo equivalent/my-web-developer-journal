@@ -108,6 +108,8 @@ custom cache key
 
 ### Press/Newsletter Mentions
 
+* [Ruby Weekly 534](https://rubyweekly.com/issues/534)
+* ...I've lost track, some featured mentioned are missing from this list 
 * 2019-06-06 [Ruby Weekly 453](https://rubyweekly.com/issues/453)
 * 2018-12-20 [ServerlesStatus 81](https://serverless.email/issues/81)
 * 2018-12-13 [Ruby Weekly 429](https://rubyweekly.com/issues/429)  article on aws lamda sinatra

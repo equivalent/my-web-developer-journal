@@ -17,6 +17,8 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
+* 2021-01-11 - Lamby [PR 61](https://github.com/customink/lamby/pull/61)  add `webpacker:compile` to `bin/_build`
+* 2021-01-11 - stimulus-rails [PR   22](https://github.com/hotwired/stimulus-rails/pull/22) typo fix in docs
 * 2020-02-06 - open source Slovak goverment portal - I've creted 2 PRs  to enforce not logging user data  [remove logs](https://github.com/slovensko-digital/navody.digital/pull/333) and [enforce STDOUT logs](https://github.com/slovensko-digital/navody.digital/pull/334) and other small PRs: [1](https://github.com/slovensko-digital/navody.digital/pull/335) [2](https://github.com/slovensko-digital/navody.digital/pull/339) [3](https://github.com/slovensko-digital/navody.digital/pull/337)
 * I've stopped tracking contributions for couple of months `  ¯\_(ツ)_/`
 * 2019-09-30 [Rails 6 ActionView::Template::Error wrong number of arguments (given 2, expected 1)](https://github.com/rspec/rspec-rails/issues/2177) [2](https://github.com/rails/rails/issues/36315) bugreport

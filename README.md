@@ -19,6 +19,12 @@ It already happened to me several time that I've done the same PR twice
 
 * https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
+* 2021-05-14 - AWS Apmplify bug report
+  * [one](https://github.com/aws-amplify/amplify-console/issues/1837),
+  * [two](https://github.com/aws-amplify/amplify-console/issues/1830),
+  * [three](https://github.com/aws-amplify/amplify-console/issues/157#issuecomment-834362708),
+  * [four](https://github.com/aws-amplify/amplify-console/issues/1815) 
+
 * 2021-01-11 - Lamby [PR 61](https://github.com/customink/lamby/pull/61)  add `webpacker:compile` to `bin/_build`
 * 2021-01-11 - stimulus-rails [PR   22](https://github.com/hotwired/stimulus-rails/pull/22) typo fix in docs
 * 2020-02-06 - open source Slovak goverment portal - I've creted 2 PRs  to enforce not logging user data  [remove logs](https://github.com/slovensko-digital/navody.digital/pull/333) and [enforce STDOUT logs](https://github.com/slovensko-digital/navody.digital/pull/334) and other small PRs: [1](https://github.com/slovensko-digital/navody.digital/pull/335) [2](https://github.com/slovensko-digital/navody.digital/pull/339) [3](https://github.com/slovensko-digital/navody.digital/pull/337)

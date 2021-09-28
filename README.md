@@ -20,6 +20,7 @@ It already happened to me several time that I've done the same PR twice
 * https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
 
+* 2021-09-28 [Rails issue](https://github.com/rails/rails/issues/43326)
 * 2021-05-27 Airbrake readme updates  [here](https://github.com/airbrake/airbrake-ruby/pull/648) and [here](https://github.com/airbrake/airbrake-ruby/pull/649) 
 * 2021-05-14 - AWS Apmplify bug report
   * [one](https://github.com/aws-amplify/amplify-console/issues/1837),

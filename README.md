@@ -20,6 +20,7 @@ It already happened to me several time that I've done the same PR twice
 * https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
 
+* 2022-05-09 [Rails PR - docs no azure](https://github.com/rails/rails/pull/44965) related to [issue #44960](https://github.com/rails/rails/issues/44960)
 * 2021-09-28 [Rails issue](https://github.com/rails/rails/issues/43326)
   on ffmpeg snap installation
 * 2021-05-27 Airbrake readme updates  [here](https://github.com/airbrake/airbrake-ruby/pull/648) and [here](https://github.com/airbrake/airbrake-ruby/pull/649) 

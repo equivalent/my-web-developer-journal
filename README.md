@@ -19,7 +19,13 @@ It already happened to me several time that I've done the same PR twice
 
 * https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
-
+* 2022-09-07 [PR](https://github.com/rails/rails/pull/45954) to
+  ActionText Rails
+* 2022-05-00 Propshaft gem issue reportss & PRs:
+  * [change is not detected in @import css file](https://github.com/rails/propshaft/issues/90)
+  * [README update - avoid isses related to browser cache during development](https://github.com/rails/propshaft/pull/94)
+  * [question](https://github.com/rails/propshaft/issues/95)
+  * [question2](https://github.com/rails/propshaft/issues/92)
 * 2022-05-09 [Rails PR - docs no azure](https://github.com/rails/rails/pull/44965) related to [issue #44960](https://github.com/rails/rails/issues/44960)
 * 2022-05-09 [gem GRPC issue](https://github.com/grpc/grpc/issues/29489#issuecomment-1120822860)
 * 2021-09-28 [Rails issue](https://github.com/rails/rails/issues/43326)

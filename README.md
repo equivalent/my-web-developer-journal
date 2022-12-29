@@ -17,8 +17,8 @@ It already happened to me several time that I've done the same PR twice
 
 ### Contributions:
 
-* https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
+* 2022-12-29 [PR](https://github.com/rails/propshaft/pull/124) to Propshaft Rails
 * 2022-09-07 [PR](https://github.com/rails/rails/pull/45954) to
   ActionText Rails
 * 2022-05-00 Propshaft gem issue reportss & PRs:
@@ -36,6 +36,7 @@ It already happened to me several time that I've done the same PR twice
   * [two](https://github.com/aws-amplify/amplify-console/issues/1830),
   * [three](https://github.com/aws-amplify/amplify-console/issues/157#issuecomment-834362708),
   * [four](https://github.com/aws-amplify/amplify-console/issues/1815) 
+* 2021-04-17 https://github.com/aws/elastic-beanstalk-roadmap/issues/163
 
 * 2021-01-11 - Lamby [PR 61](https://github.com/customink/lamby/pull/61)  add `webpacker:compile` to `bin/_build`
 * 2021-01-11 - stimulus-rails [PR   22](https://github.com/hotwired/stimulus-rails/pull/22) typo fix in docs

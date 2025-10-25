@@ -2,18 +2,10 @@
 
 > Tomas Valent - a.k.a   [Equivalent](https://www.eq8.eu/)
 
-This file is a Bio/Portfolio to keep track of my professional developer &amp; open source highlights.
+This file is a Bio/Portfolio to keep track of my open source contributions.
 
-**Why?:** Because I have a memory of a Squirrel :squirrel: !
-What I don't write down I forget and then I loose track of stuff
-I've already done or Pull Requested.
+**Why?:** I accidentally made another pull request for the same bugfix because I forgot I'd already made one before. 
 
-It already happened to me several time that I've done the same PR twice
-( and GitHub activity log is not much help either)
-
-...so, here is my stupid narcissistic list of:
-
-(here is my stupid narcissistic list of:)
 
 ### Contributions:
 

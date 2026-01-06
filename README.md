@@ -10,7 +10,7 @@ This file is a Bio/Portfolio to keep track of my open source contributions.
 ### Contributions:
 
 * 2026-01 [PR](https://github.com/AutoMaker-Org/automaker/pull/365) Fix Dockerfile in Automaker (issue where `ssh` was not recognized as a command on git@ repos) 
-* for few years I stopped tracking things, several PRs missing form this list 
+* for few years I stopped tracking things, several PRs missing from this list 
 * 2022-12-29 [PR](https://github.com/rails/propshaft/pull/124) to Propshaft Rails
 * 2022-09-07 [PR](https://github.com/rails/rails/pull/45954) to
   ActionText Rails
